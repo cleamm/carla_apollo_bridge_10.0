@@ -147,4 +147,9 @@ This work is based on the following open-source projects:
 * [Carla Apollo Bridge](https://github.com/AuroAi/carla_apollo_bridge)
 * [Carla Apollo](https://github.com/casper-auto/carla-apollo)
 
+## Forked This Page!
+
+* [guardstrikelab Carla Apollo Bridge](https://github.com/guardstrikelab/carla_apollo_bridge)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

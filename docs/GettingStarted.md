@@ -17,8 +17,7 @@ Alternatively, simply perform the following steps：
 * NVIDIA Container Toolkit
 
   ```sh
-  curl https://get.docker.com | sh \
-  && sudo systemctl --now enable docker
+  curl https://get.docker.com | sh && sudo systemctl --now enable docker
   ```
   ```sh
   distribution=$(. /etc/os-release;echo $ID$VERSION_ID) \
@@ -39,9 +38,9 @@ Alternatively, simply perform the following steps：
 
 * docker-compose
 
-```
-     sudo curl -L "https://github.com/docker/compose/releases/download/v2.0.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-```
+  ```
+  sudo curl -L "https://github.com/docker/compose/releases/download/v2.0.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  ```
 
 * Change File Permission:
 
@@ -144,17 +143,17 @@ Note that this project provides a refined MPC controller that improves the perfo
 
   ```sh
   # Using SSH
-  git clone git@github.com:guardstrikelab/carla_apollo_bridge.git
+  git clone git@github.com:cleamm/carla_apollo_bridge_10.0.git
   
   #Using HTTPS
-  git clone https://github.com/guardstrikelab/carla_apollo_bridge.git
+  git clone https://github.com/cleamm/carla_apollo_bridge_10.0.git
   ```
 
 * Pull carla image and run
 
   ```sh
   cd carla_apollo_bridge
-  ./scripts/docker_run_carla.sh
+  ./carla_scripts/docker_run_carla.sh
   ```
 
 ### Run carla_apollo_bridge
@@ -175,7 +174,7 @@ Note that this project provides a refined MPC controller that improves the perfo
 3. Start the bridge
 
     ```sh
-    python main.py
+    python3 main.py
     ```
 
 ### Result

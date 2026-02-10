@@ -1,6 +1,4 @@
 <a name="readme-top"></a>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -11,9 +9,6 @@
   <h1 align="center">Carla Apollo Bridge</h1>
   <p align="center">
     <b>Carla & Apollo Co-simulation</b>
-    <!-- <br /> -->
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br /> -->
     <br />
     <a href="https://github.com/guardstrikelab/apollo_carla">View Demo</a>
     ·
@@ -25,62 +20,28 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<!-- <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About Carla Apollo Bridge</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details> -->
-
-![visitor](https://komarev.com/ghpvc/?username=guardstrikelab&label=PROFILE+VIEWS)
-![issues](https://img.shields.io/github/issues/guardstrikelab/carla_apollo_bridge)
-![issues-closed](https://img.shields.io/github/issues-closed/guardstrikelab/carla_apollo_bridge)
-![issues-pr](https://img.shields.io/github/issues-pr/guardstrikelab/carla_apollo_bridge)
-![last-commit](https://img.shields.io/github/last-commit/guardstrikelab/carla_apollo_bridge)
+![visitor](https://komarev.com/ghpvc/?username=cleamm&label=PROFILE+VIEWS)
+![issues](https://img.shields.io/github/issues/cleamm/carla_apollo_bridge_10.0)
+![issues-closed](https://img.shields.io/github/issues-closed/cleamm/carla_apollo_bridge_10.0)
+![issues-pr](https://img.shields.io/github/issues-pr/cleamm/carla_apollo_bridge_10.0)
+![last-commit](https://img.shields.io/github/last-commit/cleamm/carla_apollo_bridge_10.0)
 [![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/guardstrikelab/carla_apollo_bridge)](https://www.tickgit.com/browse?repo=github.com/guardstrikelab/carla_apollo_bridge)
-![milestones](https://img.shields.io/github/milestones/all/guardstrikelab/carla_apollo_bridge)
-![repo-size](https://img.shields.io/github/repo-size/guardstrikelab/carla_apollo_bridge)
-![lines](https://img.shields.io/tokei/lines/github/guardstrikelab/carla_apollo_bridge)
+![milestones](https://img.shields.io/github/milestones/all/cleamm/carla_apollo_bridge_10.0)
+![repo-size](https://img.shields.io/github/repo-size/cleamm/carla_apollo_bridge_10.0)
+![lines](https://img.shields.io/tokei/lines/github/cleamm/carla_apollo_bridge_10.0)
 ![language](https://img.shields.io/badge/language-python-orange.svg)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/guardstrikelab/carla_apollo_bridge/blob/master/LICENSE)
-![stars](https://img.shields.io/github/stars/guardstrikelab/carla_apollo_bridge?style=social)
+![stars](https://img.shields.io/github/stars/cleamm/carla_apollo_bridge_10.0?style=social)
 
 <!-- ABOUT THE PROJECT -->
 ## About
-This project aims to provide a data and control bridge for the communication between Carla and Apollo. It was tested with [Carla 0.9.14](https://github.com/carla-simulator/carla/tree/0.9.14) and the [Apollo v8.0.0](https://github.com/ApolloAuto/apollo/tree/v8.0.0) (v8.0.0)
+This project aims to provide a data and control bridge for the communication between Carla and Apollo. It was tested with [Carla 0.9.14](https://github.com/carla-simulator/carla/tree/0.9.14) and the [Apollo v10.0.0](https://github.com/ApolloAuto/apollo/tree/v10.0.0) (v10.0.0)
 
 ![image](docs/images/demo.gif)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 Please refer to [Getting Started](docs/GettingStarted.md)
-
-<!-- Premium -->
-## Premium
-
-If you want to delve deeper into using Apollo for simulation in Carla, you can refer to the following information.
-
-We ([SYNKROTRON](https://synkrotron.ai/)) offer a range of advanced features, including:
 
 ### HIL cluster management
 
@@ -113,13 +74,6 @@ With the freedom to select scenarios and evaluation rules, sensor models, and te
 ### Task management
 
 Supporting different departments and teams to conduct simulation tasks, scenario building tasks, evaluation rule writing tasks, algorithm code submission tasks, etc. based on different business permissions.
-
-## Contact
-
-If you wish to try it out, please contact us through one of the following methods.
-
-- email: xiaofei@synkrotron.ai
-- email: leili@synkrotron.ai
 
 <!-- CONTRIBUTING -->
 ## Contribution

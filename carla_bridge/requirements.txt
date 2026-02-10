@@ -2,4 +2,5 @@
 
 loguru==0.7.0
 networkx
-transforms3d==0.4.1
+transforms3d==0.4.2
+opencv-python

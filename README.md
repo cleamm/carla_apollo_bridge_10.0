@@ -37,7 +37,9 @@
 ## About
 This project aims to provide a data and control bridge for the communication between Carla and Apollo. It was tested with [Carla 0.9.14](https://github.com/carla-simulator/carla/tree/0.9.14) and the [Apollo v10.0.0](https://github.com/ApolloAuto/apollo/tree/v10.0.0) (v10.0.0)
 
-![image](docs/images/demo.gif)
+## New!
+Update(26.02.11)
+![image](docs/images/Apollo10_bridge.png)
 
 <!-- GETTING STARTED -->
 ## Getting Started

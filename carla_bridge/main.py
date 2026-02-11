@@ -8,9 +8,11 @@ import sys
 import threading
 from threading import Event, Thread
 
+sys.path.insert(0,'/opt/apollo/neo/python/cyber')
 import carla
 import yaml
-from cyber.proto.clock_pb2 import Clock
+from proto.clock_pb2 import Clock
+# from cyber.proto.clock_pb2 import Clock
 
 from carla_bridge.core.actor_factory import ActorFactory
 from carla_bridge.core.carla_spawn_objects import CarlaSpawnObjects

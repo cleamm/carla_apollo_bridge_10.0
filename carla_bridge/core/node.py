@@ -7,7 +7,8 @@
 # For a copy, see <https://opensource.org/licenses/MIT>.
 #
 """cyber node wraper"""
-from cyber_py3 import cyber, cyber_time, cyber_timer, parameter
+# from cyber_py3 import cyber, cyber_time, cyber_timer, parameter
+from cyber.python.cyber_py3 import cyber, cyber_time, cyber_timer, parameter
 
 
 class CyberNode(object):
